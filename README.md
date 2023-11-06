@@ -47,10 +47,7 @@ The Python script (`typing_speed_checker.py`) contains an `Application` class th
 
 - The application was created by Saathvik and is designed to provide a tool for testing and improving typing skills.
 
-### Sample Image of the Application 
-![Sample](Sample Image.png)
-
-
 This application offers a practical way to evaluate and enhance your typing proficiency.
 
 ---
+https://ibb.co/vm6K40w
