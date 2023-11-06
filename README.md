@@ -50,4 +50,3 @@ The Python script (`typing_speed_checker.py`) contains an `Application` class th
 This application offers a practical way to evaluate and enhance your typing proficiency.
 
 ---
-https://ibb.co/vm6K40w
