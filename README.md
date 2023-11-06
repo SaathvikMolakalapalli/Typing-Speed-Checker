@@ -1,4 +1,4 @@
-## Python Speed Typing Test 
+## Typing Speed Checker 
 This Python script is a typing speed checker application developed using the Pygame library. The application evaluates a user's typing speed, accuracy, and words per minute (WPM) by presenting a random sentence for the user to type and analyzing their performance upon completion.
 
 ### Getting Started
